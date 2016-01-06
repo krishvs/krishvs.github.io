@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "krishvs"
+  ],
+  "description": "portfolio website",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.1.4",
+    "jquery.terminal": "~0.9.3"
+  },
+  "devDependencies": {
+    "jquery.terminal": "~0.9.3"
+  }
+}
